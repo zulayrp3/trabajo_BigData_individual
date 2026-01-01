@@ -131,7 +131,7 @@ website:
       - text: "Trabajo individual"        
         href: my_trabajo_BigData.qmd   
       - icon: github
-        href: https://github.com/zularp3   
+        href: https://github.com/zulayrp3   
       - icon: envelope
         url: "zuro@alumni.uv.es"            
   page-footer:
